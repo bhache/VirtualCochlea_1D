@@ -1,2 +1,2 @@
-# JuliaCSynapse
-Cisternal Synapse in Outer Hair Cells
+# One dimensional virtual cochlea
+_In silico_ model of 1D virtual cochlea
